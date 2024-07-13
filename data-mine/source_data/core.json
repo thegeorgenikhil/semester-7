@@ -1,0 +1,54 @@
+{
+  "CS": {
+    "CSE1": { "HRM": "Dr. Bignya Patnaik", "PPL": "Dr. Bijaya Bijeta Nayak" },
+    "CSE2": { "HRM": "Dr. Jayalaxmi Samal", "PPL": "Dr. Amlana Panda" },
+    "CSE3": { "HRM": "Mr. Sheikh Masud", "PPL": "Dr. Jitendra Ku. Patel" },
+    "CSE4": { "HRM": "Dr. Sweta Mishra", "PPL": "Dr. Ashish Panda" },
+    "CSE5": { "HRM": "Dr. Dhyanadipta Panda", "PPL": "Dr. S. Chaudhuri" },
+    "CSE6": { "HRM": "Dr. Jayalaxmi Samal", "PPL": "Dr. Gyan Sagar Sinha" },
+    "CSE7": { "HRM": "Mr. Sheikh Masud", "PPL": "Dr. Pushkar Jha" },
+    "CSE8": { "HRM": "Dr. Sweta Mishra", "PPL": "Dr. Nilotpala Bej" },
+    "CSE9": { "HRM": "Dr. Nishikant Mishra", "PPL": "Prof. Siba P. Behera" },
+    "CSE10": { "HRM": "Dr. Dhyanadipta Panda", "PPL": "Dr. Sasmita Sahu" },
+    "CSE11": { "HRM": "Dr. Bignya Patnaik", "PPL": "Dr. Ram Kumar Kesharwani" },
+    "CSE12": { "HRM": "Dr. Sweta Mishra", "PPL": "Dr. Radha Kanta Sarangi" },
+    "CSE13": { "HRM": "Ms. Ipsita Mohapatra", "PPL": "Dr. Ramanuj Kumar" },
+    "CSE14": { "HRM": "Dr. Bignya Patnaik", "PPL": "Prof. Srikant Panigrahi" },
+    "CSE15": { "HRM": "Dr. Jayalaxmi Samal", "PPL": "Dr. Sasmita Sahu" },
+    "CSE16": { "HRM": "Dr. D. Nisrutha", "PPL": "Dr. Ranjan Ku Behera" },
+    "CSE17": { "HRM": "Ms. Ipsita Mohapatra", "PPL": "Dr. Vijay Kumar Mishra" },
+    "CSE18": { "HRM": "Mr. Sheikh Masud", "PPL": "Dr. S. Chaudhuri" },
+    "CSE19": { "HRM": "Dr. Dhyanadipta Panda", "PPL": "Dr. Sasmita Sahu" },
+    "CSE20": { "HRM": "Dr. Nishikant Mishra", "PPL": "Dr. Vijay Kumar Mishra" },
+    "CSE21": {
+      "HRM": "Dr. Nishikant Mishra",
+      "PPL": "Dr. Ram Kumar Kesharwani"
+    },
+    "CSE22": { "HRM": "Dr. Dhyanadipta Panda", "PPL": "Dr. Ranjan Ku Behera" },
+    "CSE23": { "HRM": "Mr. Sheikh Masud", "PPL": "Prof. Sudhansu S Patro" },
+    "CSE24": { "HRM": "Dr. D. Nisrutha", "PPL": "Prof. Siba P. Behera" },
+    "CSE25": { "HRM": "Dr. Jayalaxmi Samal", "PPL": "Dr. Mantra P. Satpathy" },
+    "CSE26": { "HRM": "Ms. Ipsita Mohapatra", "PPL": "Dr. Sudesna Roy" },
+    "CSE27": { "HRM": "Dr. Sweta Mishra", "PPL": "Dr. Sudesna Roy" },
+    "CSE28": { "HRM": "Dr. Nishikant Mishra", "PPL": "Prof. Kamal K Joshi" },
+    "CSE29": { "HRM": "Dr. Dhyanadipta Panda", "PPL": "Dr. Pruthwiraj Sahu" },
+    "CSE30": { "HRM": "Dr. Nishikant Mishra", "PPL": "Dr. Hemalata Jena" },
+    "CSE31": { "HRM": "Dr. Bignya Patnaik", "PPL": "Dr. A. K. Rout" },
+    "CSE32": { "HRM": "Ms. Ipsita Mohapatra", "PPL": "Dr. Pruthwiraj Sahu" },
+    "CSE33": { "HRM": "Dr. Jayalaxmi Samal", "PPL": "Dr. Ashish Panda" },
+    "CSE34": { "HRM": "Dr. Bignya Patnaik", "PPL": "Dr. Mantra P. Satpathy" }
+  },
+  "IT": {
+    "IT1": { "HRM": "Dr. D. Nisrutha", "PPL": "Dr. Hemalata Jena" },
+    "IT2": { "HRM": "Mr. Sheikh Masud", "PPL": "Dr. A. K. Rout" },
+    "IT3": { "HRM": "Dr. Sweta Mishra", "PPL": "Dr. Gyan Sagar Sinha" }
+  },
+  "CE": {
+    "CSCE1": { "HRM": "Mr. Sheikh Masud", "PPL": "Prof. Kamal K Joshi" },
+    "CSCE2": { "HRM": "Dr. Sweta Mishra", "PPL": "Prof. Rajiva L. Mohanty" }
+  },
+  "SE": {
+    "CSSE1": { "HRM": "Dr. Jayalaxmi Samal", "PPL": "Dr. Jitendra Ku. Patel" },
+    "CSSE2": { "HRM": "Dr. Bignya Patnaik", "PPL": "Prof. Rajiva L. Mohanty" }
+  }
+}

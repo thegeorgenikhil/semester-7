@@ -1,0 +1,1683 @@
+{
+  "CSE1": {
+    "MON": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-503",
+        "FACULTY_NAME": "Dr. Bignya Patnaik"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-503",
+        "FACULTY_NAME": "Dr. Bijaya Bijeta Nayak"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-503",
+        "FACULTY_NAME": "Dr. Bignya Patnaik"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-503",
+        "FACULTY_NAME": "Dr. Bignya Patnaik"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-503",
+        "FACULTY_NAME": "Dr. Bijaya Bijeta Nayak"
+      }
+    ],
+    "THU": [],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE2": {
+    "MON": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-504",
+        "FACULTY_NAME": "Dr. Jayalaxmi Samal"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-504",
+        "FACULTY_NAME": "Dr. Amlana Panda"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-504",
+        "FACULTY_NAME": "Dr. Jayalaxmi Samal"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-504",
+        "FACULTY_NAME": "Dr. Jayalaxmi Samal"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-504",
+        "FACULTY_NAME": "Dr. Amlana Panda"
+      }
+    ],
+    "THU": [],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE3": {
+    "MON": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-505",
+        "FACULTY_NAME": "Mr. Sheikh Masud"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-505",
+        "FACULTY_NAME": "Dr. Jitendra Ku. Patel"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-505",
+        "FACULTY_NAME": "Mr. Sheikh Masud"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-505",
+        "FACULTY_NAME": "Mr. Sheikh Masud"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-505",
+        "FACULTY_NAME": "Dr. Jitendra Ku. Patel"
+      }
+    ],
+    "THU": [],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE4": {
+    "MON": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-506",
+        "FACULTY_NAME": "Dr. Sweta Mishra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-506",
+        "FACULTY_NAME": "Dr. Ashish Panda"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-506",
+        "FACULTY_NAME": "Dr. Sweta Mishra"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-506",
+        "FACULTY_NAME": "Dr. Sweta Mishra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-506",
+        "FACULTY_NAME": "Dr. Ashish Panda"
+      }
+    ],
+    "THU": [],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE5": {
+    "MON": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-401",
+        "FACULTY_NAME": "Dr. Dhyanadipta Panda"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-401",
+        "FACULTY_NAME": "Dr. S. Chaudhuri"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-401",
+        "FACULTY_NAME": "Dr. Dhyanadipta Panda"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-401",
+        "FACULTY_NAME": "Dr. Dhyanadipta Panda"
+      },
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-401",
+        "FACULTY_NAME": "Dr. S. Chaudhuri"
+      }
+    ],
+    "THU": [],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE6": {
+    "MON": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-402",
+        "FACULTY_NAME": "Dr. Jayalaxmi Samal"
+      },
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-402",
+        "FACULTY_NAME": "Dr. Gyan Sagar Sinha"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-402",
+        "FACULTY_NAME": "Dr. Jayalaxmi Samal"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-402",
+        "FACULTY_NAME": "Dr. Jayalaxmi Samal"
+      },
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-402",
+        "FACULTY_NAME": "Dr. Gyan Sagar Sinha"
+      }
+    ],
+    "THU": [],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE7": {
+    "MON": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-403",
+        "FACULTY_NAME": "Mr. Sheikh Masud"
+      },
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-403",
+        "FACULTY_NAME": "Dr. Pushkar Jha"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-504",
+        "FACULTY_NAME": "Mr. Sheikh Masud"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-403",
+        "FACULTY_NAME": "Mr. Sheikh Masud"
+      },
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-403",
+        "FACULTY_NAME": "Dr. Pushkar Jha"
+      }
+    ],
+    "THU": [],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE8": {
+    "MON": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-404",
+        "FACULTY_NAME": "Dr. Sweta Mishra"
+      },
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-404",
+        "FACULTY_NAME": "Dr. Nilotpala Bej"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-403",
+        "FACULTY_NAME": "Dr. Sweta Mishra"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-404",
+        "FACULTY_NAME": "Dr. Sweta Mishra"
+      },
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-404",
+        "FACULTY_NAME": "Dr. Nilotpala Bej"
+      }
+    ],
+    "THU": [],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE9": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-504",
+        "FACULTY_NAME": "Dr. Nishikant Mishra"
+      },
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-504",
+        "FACULTY_NAME": "Prof. Siba P. Behera"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-404",
+        "FACULTY_NAME": "Prof. Siba P. Behera"
+      },
+      {
+        "TIME": "11-12",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-404",
+        "FACULTY_NAME": "Dr. Nishikant Mishra"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-503",
+        "FACULTY_NAME": "Dr. Nishikant Mishra"
+      }
+    ],
+    "THU": [],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE10": {
+    "MON": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-405",
+        "FACULTY_NAME": "Dr. Dhyanadipta Panda"
+      },
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-405",
+        "FACULTY_NAME": "Dr. Sasmita Sahu"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-505",
+        "FACULTY_NAME": "Dr. Dhyanadipta Panda"
+      },
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-505",
+        "FACULTY_NAME": "Dr. Sasmita Sahu"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-504",
+        "FACULTY_NAME": "Dr. Dhyanadipta Panda"
+      }
+    ],
+    "THU": [],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE11": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-505",
+        "FACULTY_NAME": "Dr. Bignya Patnaik"
+      },
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-505",
+        "FACULTY_NAME": "Dr. Ram Kumar Kesharwani"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-506",
+        "FACULTY_NAME": "Dr. Bignya Patnaik"
+      },
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-506",
+        "FACULTY_NAME": "Dr. Ram Kumar Kesharwani"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-505",
+        "FACULTY_NAME": "Dr. Bignya Patnaik"
+      }
+    ],
+    "THU": [],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE12": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-506",
+        "FACULTY_NAME": "Dr. Sweta Mishra"
+      },
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-506",
+        "FACULTY_NAME": "Dr. Radha Kanta Sarangi"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-401",
+        "FACULTY_NAME": "Dr. Sweta Mishra"
+      },
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-401",
+        "FACULTY_NAME": "Dr. Radha Kanta Sarangi"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-506",
+        "FACULTY_NAME": "Dr. Sweta Mishra"
+      }
+    ],
+    "THU": [],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE13": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-401",
+        "FACULTY_NAME": "Ms. Ipsita Mohapatra"
+      },
+      {
+        "TIME": "1-2",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-401",
+        "FACULTY_NAME": "Dr. Ramanuj Kumar"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-402",
+        "FACULTY_NAME": "Ms. Ipsita Mohapatra"
+      },
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-402",
+        "FACULTY_NAME": "Dr. Ramanuj Kumar"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-504",
+        "FACULTY_NAME": "Ms. Ipsita Mohapatra"
+      }
+    ],
+    "THU": [],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE14": {
+    "MON": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-406",
+        "FACULTY_NAME": "Dr. Bignya Patnaik"
+      },
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-406",
+        "FACULTY_NAME": "Prof. Srikant Panigrahi"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-403",
+        "FACULTY_NAME": "Dr. Bignya Patnaik"
+      },
+      {
+        "TIME": "1-2",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-403",
+        "FACULTY_NAME": "Prof. Srikant Panigrahi"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-505",
+        "FACULTY_NAME": "Dr. Bignya Patnaik"
+      }
+    ],
+    "THU": [],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE15": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-503",
+        "FACULTY_NAME": "Dr. Jayalaxmi Samal"
+      },
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-503",
+        "FACULTY_NAME": "Dr. Sasmita Sahu"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-404",
+        "FACULTY_NAME": "Dr. Jayalaxmi Samal"
+      },
+      {
+        "TIME": "1-2",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-404",
+        "FACULTY_NAME": "Dr. Sasmita Sahu"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-506",
+        "FACULTY_NAME": "Dr. Jayalaxmi Samal"
+      }
+    ],
+    "THU": [],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE16": {
+    "MON": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-301",
+        "FACULTY_NAME": "Dr. D. Nisrutha"
+      },
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-301",
+        "FACULTY_NAME": "Dr. Ranjan Ku Behera"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-405",
+        "FACULTY_NAME": "Dr. D. Nisrutha"
+      },
+      {
+        "TIME": "1-2",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-405",
+        "FACULTY_NAME": "Dr. Ranjan Ku Behera"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-401",
+        "FACULTY_NAME": "Dr. D. Nisrutha"
+      }
+    ],
+    "THU": [],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE17": {
+    "MON": [
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-404",
+        "FACULTY_NAME": "Ms. Ipsita Mohapatra"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-405",
+        "FACULTY_NAME": "Ms. Ipsita Mohapatra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-405",
+        "FACULTY_NAME": "Dr. Vijay Kumar Mishra"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-405",
+        "FACULTY_NAME": "Ms. Ipsita Mohapatra"
+      },
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-405",
+        "FACULTY_NAME": "Dr. Vijay Kumar Mishra"
+      }
+    ],
+    "THU": [],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE18": {
+    "MON": [
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-405",
+        "FACULTY_NAME": "Mr. Sheikh Masud"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-504",
+        "FACULTY_NAME": "Mr. Sheikh Masud"
+      },
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-504",
+        "FACULTY_NAME": "Dr. S. Chaudhuri"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-403",
+        "FACULTY_NAME": "Dr. S. Chaudhuri"
+      },
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-403",
+        "FACULTY_NAME": "Mr. Sheikh Masud"
+      }
+    ],
+    "THU": [],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE19": {
+    "MON": [
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-406",
+        "FACULTY_NAME": "Dr. Dhyanadipta Panda"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-301",
+        "FACULTY_NAME": "Dr. Dhyanadipta Panda"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-301",
+        "FACULTY_NAME": "Dr. Sasmita Sahu"
+      }
+    ],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-506",
+        "FACULTY_NAME": "Dr. Sasmita Sahu"
+      },
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-506",
+        "FACULTY_NAME": "Dr. Dhyanadipta Panda"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE20": {
+    "MON": [
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-301",
+        "FACULTY_NAME": "Dr. Nishikant Mishra"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-302",
+        "FACULTY_NAME": "Dr. Nishikant Mishra"
+      },
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-302",
+        "FACULTY_NAME": "Dr. Vijay Kumar Mishra"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-404",
+        "FACULTY_NAME": "Dr. Nishikant Mishra"
+      },
+      {
+        "TIME": "1-2",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-404",
+        "FACULTY_NAME": "Dr. Vijay Kumar Mishra"
+      }
+    ],
+    "THU": [],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE21": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-302",
+        "FACULTY_NAME": "Dr. Nishikant Mishra"
+      },
+      {
+        "TIME": "1-2",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-302",
+        "FACULTY_NAME": "Dr. Ram Kumar Kesharwani"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-406",
+        "FACULTY_NAME": "Dr. Ram Kumar Kesharwani"
+      },
+      {
+        "TIME": "12-1",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-406",
+        "FACULTY_NAME": "Dr. Nishikant Mishra"
+      }
+    ],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-503",
+        "FACULTY_NAME": "Dr. Nishikant Mishra"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE22": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-303",
+        "FACULTY_NAME": "Dr. Dhyanadipta Panda"
+      },
+      {
+        "TIME": "1-2",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-303",
+        "FACULTY_NAME": "Dr. Ranjan Ku Behera"
+      }
+    ],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-402",
+        "FACULTY_NAME": "Dr. Dhyanadipta Panda"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-401",
+        "FACULTY_NAME": "Dr. Dhyanadipta Panda"
+      },
+      {
+        "TIME": "1-2",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-401",
+        "FACULTY_NAME": "Dr. Ranjan Ku Behera"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE23": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-304",
+        "FACULTY_NAME": "Mr. Sheikh Masud"
+      },
+      {
+        "TIME": "1-2",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-304",
+        "FACULTY_NAME": "Prof. Sudhansu S Patro"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-503",
+        "FACULTY_NAME": "Mr. Sheikh Masud"
+      }
+    ],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-402",
+        "FACULTY_NAME": "Mr. Sheikh Masud"
+      },
+      {
+        "TIME": "1-2",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-402",
+        "FACULTY_NAME": "Prof. Sudhansu S Patro"
+      }
+    ],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE24": {
+    "MON": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-305",
+        "FACULTY_NAME": "Dr. D. Nisrutha"
+      },
+      {
+        "TIME": "1-2",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-305",
+        "FACULTY_NAME": "Prof. Siba P. Behera"
+      }
+    ],
+    "TUE": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-301",
+        "FACULTY_NAME": "Prof. Siba P. Behera"
+      },
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-301",
+        "FACULTY_NAME": "Dr. D. Nisrutha"
+      }
+    ],
+    "WED": [
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-406",
+        "FACULTY_NAME": "Dr. D. Nisrutha"
+      }
+    ],
+    "THU": [],
+    "FRI": [],
+    "SAT": []
+  },
+  "CSE25": {
+    "MON": [],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-301",
+        "FACULTY_NAME": "Dr. Jayalaxmi Samal"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-503",
+        "FACULTY_NAME": "Dr. Jayalaxmi Samal"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-503",
+        "FACULTY_NAME": "Dr. Mantra P. Satpathy"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-503",
+        "FACULTY_NAME": "Dr. Jayalaxmi Samal"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-503",
+        "FACULTY_NAME": "Dr. Mantra P. Satpathy"
+      }
+    ],
+    "SAT": []
+  },
+  "CSE26": {
+    "MON": [],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-302",
+        "FACULTY_NAME": "Ms. Ipsita Mohapatra"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-403",
+        "FACULTY_NAME": "Dr. Sudesna Roy"
+      },
+      {
+        "TIME": "12-1",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-403",
+        "FACULTY_NAME": "Ms. Ipsita Mohapatra"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-506",
+        "FACULTY_NAME": "Dr. Sudesna Roy"
+      },
+      {
+        "TIME": "12-1",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-506",
+        "FACULTY_NAME": "Ms. Ipsita Mohapatra"
+      }
+    ],
+    "SAT": []
+  },
+  "CSE27": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-302",
+        "FACULTY_NAME": "Dr. Sweta Mishra"
+      }
+    ],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-504",
+        "FACULTY_NAME": "Dr. Sweta Mishra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-504",
+        "FACULTY_NAME": "Dr. Sudesna Roy"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-504",
+        "FACULTY_NAME": "Dr. Sweta Mishra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-504",
+        "FACULTY_NAME": "Dr. Sudesna Roy"
+      }
+    ],
+    "SAT": []
+  },
+  "CSE28": {
+    "MON": [],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-303",
+        "FACULTY_NAME": "Dr. Nishikant Mishra"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-505",
+        "FACULTY_NAME": "Dr. Nishikant Mishra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-505",
+        "FACULTY_NAME": "Prof. Kamal K Joshi"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-505",
+        "FACULTY_NAME": "Dr. Nishikant Mishra"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-505",
+        "FACULTY_NAME": "Prof. Kamal K Joshi"
+      }
+    ],
+    "SAT": []
+  },
+  "CSE29": {
+    "MON": [],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-405",
+        "FACULTY_NAME": "Dr. Dhyanadipta Panda"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-506",
+        "FACULTY_NAME": "Dr. Dhyanadipta Panda"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-506",
+        "FACULTY_NAME": "Dr. Pruthwiraj Sahu"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-506",
+        "FACULTY_NAME": "Dr. Dhyanadipta Panda"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-506",
+        "FACULTY_NAME": "Dr. Pruthwiraj Sahu"
+      }
+    ],
+    "SAT": []
+  },
+  "CSE30": {
+    "MON": [],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-406",
+        "FACULTY_NAME": "Dr. Nishikant Mishra"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-401",
+        "FACULTY_NAME": "Dr. Nishikant Mishra"
+      },
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-401",
+        "FACULTY_NAME": "Dr. Hemalata Jena"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-401",
+        "FACULTY_NAME": "Dr. Nishikant Mishra"
+      },
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-401",
+        "FACULTY_NAME": "Dr. Hemalata Jena"
+      }
+    ],
+    "SAT": []
+  },
+  "CSE31": {
+    "MON": [],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-304",
+        "FACULTY_NAME": "Dr. Bignya Patnaik"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-402",
+        "FACULTY_NAME": "Dr. Bignya Patnaik"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-402",
+        "FACULTY_NAME": "Dr. A. K. Rout"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "9-10",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-402",
+        "FACULTY_NAME": "Dr. Bignya Patnaik"
+      },
+      {
+        "TIME": "10-11",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-402",
+        "FACULTY_NAME": "Dr. A. K. Rout"
+      }
+    ],
+    "SAT": []
+  },
+  "CSE32": {
+    "MON": [],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-301",
+        "FACULTY_NAME": "Ms. Ipsita Mohapatra"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-404",
+        "FACULTY_NAME": "Dr. Pruthwiraj Sahu"
+      },
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-404",
+        "FACULTY_NAME": "Ms. Ipsita Mohapatra"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-401",
+        "FACULTY_NAME": "Dr. Pruthwiraj Sahu"
+      },
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-401",
+        "FACULTY_NAME": "Ms. Ipsita Mohapatra"
+      }
+    ],
+    "SAT": []
+  },
+  "CSE33": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-303",
+        "FACULTY_NAME": "Dr. Jayalaxmi Samal"
+      }
+    ],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-303",
+        "FACULTY_NAME": "Dr. Jayalaxmi Samal"
+      },
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-303",
+        "FACULTY_NAME": "Dr. Ashish Panda"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-303",
+        "FACULTY_NAME": "Dr. Jayalaxmi Samal"
+      },
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-303",
+        "FACULTY_NAME": "Dr. Ashish Panda"
+      }
+    ],
+    "SAT": []
+  },
+  "CSE34": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-304",
+        "FACULTY_NAME": "Dr. Bignya Patnaik"
+      }
+    ],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-404",
+        "FACULTY_NAME": "Dr. Bignya Patnaik"
+      },
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-404",
+        "FACULTY_NAME": "Dr. Mantra P. Satpathy"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-404",
+        "FACULTY_NAME": "Dr. Bignya Patnaik"
+      },
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-404",
+        "FACULTY_NAME": "Dr. Mantra P. Satpathy"
+      }
+    ],
+    "SAT": []
+  },
+  "IT1": {
+    "MON": [
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-503",
+        "FACULTY_NAME": "Dr. D. Nisrutha"
+      }
+    ],
+    "TUE": [],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-503",
+        "FACULTY_NAME": "Dr. Hemalata Jena"
+      },
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-503",
+        "FACULTY_NAME": "Dr. D. Nisrutha"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-503",
+        "FACULTY_NAME": "Dr. Hemalata Jena"
+      },
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-503",
+        "FACULTY_NAME": "Dr. D. Nisrutha"
+      }
+    ],
+    "SAT": []
+  },
+  "IT2": {
+    "MON": [],
+    "TUE": [
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-503",
+        "FACULTY_NAME": "Mr. Sheikh Masud"
+      }
+    ],
+    "WED": [],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-504",
+        "FACULTY_NAME": "Dr. A. K. Rout"
+      },
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-504",
+        "FACULTY_NAME": "Mr. Sheikh Masud"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-504",
+        "FACULTY_NAME": "Dr. A. K. Rout"
+      },
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-504",
+        "FACULTY_NAME": "Mr. Sheikh Masud"
+      }
+    ],
+    "SAT": []
+  },
+  "IT3": {
+    "MON": [],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-503",
+        "FACULTY_NAME": "Dr. Sweta Mishra"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-505",
+        "FACULTY_NAME": "Dr. Gyan Sagar Sinha"
+      },
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-505",
+        "FACULTY_NAME": "Dr. Sweta Mishra"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-505",
+        "FACULTY_NAME": "Dr. Gyan Sagar Sinha"
+      },
+      {
+        "TIME": "1-2",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-505",
+        "FACULTY_NAME": "Dr. Sweta Mishra"
+      }
+    ],
+    "SAT": []
+  },
+  "CSCE1": {
+    "MON": [],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-305",
+        "FACULTY_NAME": "Mr. Sheikh Masud"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-301",
+        "FACULTY_NAME": "Mr. Sheikh Masud"
+      },
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-301",
+        "FACULTY_NAME": "Prof. Kamal K Joshi"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-405",
+        "FACULTY_NAME": "Mr. Sheikh Masud"
+      },
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-405",
+        "FACULTY_NAME": "Prof. Kamal K Joshi"
+      }
+    ],
+    "SAT": []
+  },
+  "CSCE2": {
+    "MON": [],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "12-1",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-306",
+        "FACULTY_NAME": "Dr. Sweta Mishra"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-302",
+        "FACULTY_NAME": "Dr. Sweta Mishra"
+      },
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-302",
+        "FACULTY_NAME": "Prof. Rajiva L. Mohanty"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-406",
+        "FACULTY_NAME": "Dr. Sweta Mishra"
+      },
+      {
+        "TIME": "11-12",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-406",
+        "FACULTY_NAME": "Prof. Rajiva L. Mohanty"
+      }
+    ],
+    "SAT": []
+  },
+  "CSSE1": {
+    "MON": [],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-406",
+        "FACULTY_NAME": "Dr. Jayalaxmi Samal"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-405",
+        "FACULTY_NAME": "Dr. Jayalaxmi Samal"
+      },
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-405",
+        "FACULTY_NAME": "Dr. Jitendra Ku. Patel"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-402",
+        "FACULTY_NAME": "Dr. Jayalaxmi Samal"
+      },
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-402",
+        "FACULTY_NAME": "Dr. Jitendra Ku. Patel"
+      }
+    ],
+    "SAT": []
+  },
+  "CSSE2": {
+    "MON": [],
+    "TUE": [],
+    "WED": [
+      {
+        "TIME": "10-11",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-302",
+        "FACULTY_NAME": "Dr. Bignya Patnaik"
+      }
+    ],
+    "THU": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-406",
+        "FACULTY_NAME": "Dr. Bignya Patnaik"
+      },
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-406",
+        "FACULTY_NAME": "Prof. Rajiva L. Mohanty"
+      }
+    ],
+    "FRI": [
+      {
+        "TIME": "11-12",
+        "SUBJECT": "HRM",
+        "ROOM": "C17-LH-403",
+        "FACULTY_NAME": "Dr. Bignya Patnaik"
+      },
+      {
+        "TIME": "12-1",
+        "SUBJECT": "PPL",
+        "ROOM": "C17-LH-403",
+        "FACULTY_NAME": "Prof. Rajiva L. Mohanty"
+      }
+    ],
+    "SAT": []
+  }
+}
