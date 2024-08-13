@@ -38,7 +38,7 @@ const Select = () => {
       };
 
       localStorage.setItem("timetable", JSON.stringify(timetable));
-      localStorage.setItem("version", JSON.stringify("v4"));
+      localStorage.setItem("v", JSON.stringify("v2"));
 
       navigate("/");
     } catch (err) {

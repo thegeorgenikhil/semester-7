@@ -6,7 +6,7 @@
     "CSE4": { "HRM": "Dr. Sweta Mishra", "PPL": "Dr. Ashish Panda" },
     "CSE5": { "HRM": "Dr. Dhyanadipta Panda", "PPL": "Dr. S. Chaudhuri" },
     "CSE6": { "HRM": "Dr. Jayalaxmi Samal", "PPL": "Dr. Gyan Sagar Sinha" },
-    "CSE7": { "HRM": "Mr. Sheikh Masud", "PPL": "Dr. Pushkar Jha" },
+    "CSE7": { "HRM": "Mr. Sheikh Masud", "PPL": "Dr. Jitendra Ku. Patel" },
     "CSE8": { "HRM": "Dr. Sweta Mishra", "PPL": "Dr. Nilotpala Bej" },
     "CSE9": { "HRM": "Dr. Nishikant Mishra", "PPL": "Prof. Siba P. Behera" },
     "CSE10": { "HRM": "Dr. Dhyanadipta Panda", "PPL": "Dr. Sasmita Sahu" },
@@ -17,8 +17,8 @@
     "CSE15": { "HRM": "Dr. Jayalaxmi Samal", "PPL": "Dr. Sasmita Sahu" },
     "CSE16": { "HRM": "Dr. D. Nisrutha", "PPL": "Dr. Ranjan Ku Behera" },
     "CSE17": { "HRM": "Ms. Ipsita Mohapatra", "PPL": "Dr. Vijay Kumar Mishra" },
-    "CSE18": { "HRM": "Mr. Sheikh Masud", "PPL": "Dr. S. Chaudhuri" },
-    "CSE19": { "HRM": "Dr. Dhyanadipta Panda", "PPL": "Dr. Sasmita Sahu" },
+    "CSE18": { "HRM": "Dr. Arpita Nayak", "PPL": "Dr. S. Chaudhuri" },
+    "CSE19": { "HRM": "Dr. Dhyanadipta Panda", "PPL": "Dr. Pruthwiraj Sahu" },
     "CSE20": { "HRM": "Dr. Nishikant Mishra", "PPL": "Dr. Vijay Kumar Mishra" },
     "CSE21": {
       "HRM": "Dr. Nishikant Mishra",
@@ -34,13 +34,13 @@
     "CSE29": { "HRM": "Dr. Dhyanadipta Panda", "PPL": "Dr. Pruthwiraj Sahu" },
     "CSE30": { "HRM": "Dr. Nishikant Mishra", "PPL": "Dr. Hemalata Jena" },
     "CSE31": { "HRM": "Dr. Bignya Patnaik", "PPL": "Dr. A. K. Rout" },
-    "CSE32": { "HRM": "Ms. Ipsita Mohapatra", "PPL": "Dr. Pruthwiraj Sahu" },
+    "CSE32": { "HRM": "Ms. Ipsita Mohapatra", "PPL": "Dr. Sasmita Sahu" },
     "CSE33": { "HRM": "Dr. Jayalaxmi Samal", "PPL": "Dr. Ashish Panda" },
     "CSE34": { "HRM": "Dr. Bignya Patnaik", "PPL": "Dr. Mantra P. Satpathy" }
   },
   "IT": {
     "IT1": { "HRM": "Dr. D. Nisrutha", "PPL": "Dr. Hemalata Jena" },
-    "IT2": { "HRM": "Mr. Sheikh Masud", "PPL": "Dr. A. K. Rout" },
+    "IT2": { "HRM": "Dr. Arpita Nayak", "PPL": "Dr. A. K. Rout" },
     "IT3": { "HRM": "Dr. Sweta Mishra", "PPL": "Dr. Gyan Sagar Sinha" }
   },
   "CE": {
@@ -48,7 +48,7 @@
     "CSCE2": { "HRM": "Dr. Sweta Mishra", "PPL": "Prof. Rajiva L. Mohanty" }
   },
   "SE": {
-    "CSSE1": { "HRM": "Dr. Jayalaxmi Samal", "PPL": "Dr. Jitendra Ku. Patel" },
+    "CSSE1": { "HRM": "Dr. Jayalaxmi Samal", "PPL": "Dr. Pushkar Jha" },
     "CSSE2": { "HRM": "Dr. Bignya Patnaik", "PPL": "Prof. Rajiva L. Mohanty" }
   }
 }
